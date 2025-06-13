@@ -1,0 +1,25 @@
+[
+  {
+    "CategoryName": "Deneme2",
+    "Notlar": []
+  },
+  {
+    "CategoryName": "Deneme3",
+    "Notlar": []
+  },
+  {
+    "CategoryName": "G\u00FCnl\u00FCk",
+    "Notlar": []
+  },
+  {
+    "CategoryName": "Deneme",
+    "Notlar": [
+      {
+        "Header": "deneme",
+        "Content": "content",
+        "CreatedAt": "2025-06-13T08:17:00.8104167+03:00",
+        "LastUpdatedAt": "2025-06-13T08:17:00.810417+03:00"
+      }
+    ]
+  }
+]

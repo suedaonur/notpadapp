@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sueda Onur\\Desktop\\NTPOdev\\NotDefteri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F00631-4508-4C88-9747-53B763592991}|NotDefteri.csproj|c:\\users\\sueda onur\\desktop\\ntpodev\\notdefteri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F00631-4508-4C88-9747-53B763592991}|NotDefteri.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F00631-4508-4C88-9747-53B763592991}|NotDefteri.csproj|c:\\users\\sueda onur\\desktop\\ntpodev\\notdefteri\\services\\notservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F00631-4508-4C88-9747-53B763592991}|NotDefteri.csproj|solutionrelative:services\\notservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sueda Onur\\Desktop\\NTPOdev\\NotDefteri\\Services\\NotServices.cs",
+              "RelativeDocumentMoniker": "Services\\NotServices.cs",
+              "ToolTip": "C:\\Users\\Sueda Onur\\Desktop\\NTPOdev\\NotDefteri\\Services\\NotServices.cs",
+              "RelativeToolTip": "Services\\NotServices.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:29:33.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sueda Onur\\Desktop\\NTPOdev\\NotDefteri\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Sueda Onur\\Desktop\\NTPOdev\\NotDefteri\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:24:34.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
