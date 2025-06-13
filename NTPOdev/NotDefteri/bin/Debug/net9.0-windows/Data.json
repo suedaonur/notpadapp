@@ -1,0 +1,27 @@
+[
+  {
+    "CategoryName": "Deneme2",
+    "Notlar": []
+  },
+  {
+    "CategoryName": "Deneme3",
+    "Notlar": []
+  },
+  {
+    "CategoryName": "G\u00FCnl\u00FCk",
+    "Notlar": [
+      {
+        "Header": "\u0130n\u015Faat g\u00FCnl\u00FC\u011F\u00FC",
+        "Content": "Bu g\u00FCn ustadan sar\u0131 kola istedim o da bana seni siyah kola siksin dedi \u00E7ok \u00FCzg\u00FCn\u00FCm a\u011Fl\u0131yorum \u015Fuan.sdsasdsd",
+        "CreatedAt": "2025-06-13T03:28:21.5257908+03:00",
+        "LastUpdatedAt": "2025-06-13T03:29:14.2950112+03:00"
+      },
+      {
+        "Header": "\u0130n\u015Faat g\u00FCnl\u00FC\u011F\u00FCs",
+        "Content": "Bu g\u00FCn ustadan sar\u0131 kola istedim o da bana seni siyah kola siksin dedi \u00E7ok \u00FCzg\u00FCn\u00FCm a\u011Fl\u0131yorum \u015Fuan.sdsasdsd",
+        "CreatedAt": "2025-06-13T03:29:22.5743126+03:00",
+        "LastUpdatedAt": "2025-06-13T03:29:22.5743126+03:00"
+      }
+    ]
+  }
+]

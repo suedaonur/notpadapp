@@ -1,0 +1,16 @@
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\bin\Debug\net9.0-windows\NotDefteri.exe
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\bin\Debug\net9.0-windows\NotDefteri.deps.json
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\bin\Debug\net9.0-windows\NotDefteri.runtimeconfig.json
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\bin\Debug\net9.0-windows\NotDefteri.dll
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\bin\Debug\net9.0-windows\NotDefteri.pdb
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.Form1.resources
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.csproj.GenerateResource.cache
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.AssemblyInfoInputs.cache
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.AssemblyInfo.cs
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.csproj.CoreCompileInputs.cache
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.dll
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\refint\NotDefteri.dll
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.pdb
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\NotDefteri.genruntimeconfig.cache
+C:\Users\Sueda Onur\Desktop\NTPOdev\NotDefteri\obj\Debug\net9.0-windows\ref\NotDefteri.dll
